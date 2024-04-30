@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackieGanyo
 - 👀 I’m interested in ...technological advances that improve accessibility to learning materials-books, articles, new techniques, procedures..
-- 🌱 I’m currently learning ... python... YIKES!  This isn't the snake either. 
+- 🌱 I’m currently learning ... python... 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... www.linkedin.com/in/ganyojackie
 - 😄 Pronouns: ... she, her
